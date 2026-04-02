@@ -34,7 +34,7 @@
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com/in/your-link
+* 💼 LinkedIn: www.linkedin.com/in/prerna-sharma-10425a360
 * 🌐 Live Project: https://ai-language-translator-website.onrender.com
 
 ---
