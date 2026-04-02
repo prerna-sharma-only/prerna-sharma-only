@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Prerna Sharma
 
-<!--
-**prerna-sharma-only/prerna-sharma-only** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Full Stack Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me
+
+* 🌱 Currently learning Full Stack Development
+* ⚡ Building real-time web applications
+* 🎯 Focused on JavaScript, Node.js & AI projects
+* 💡 Love turning ideas into real projects
+
+---
+
+## 🛠️ Tech Stack
+
+* 💻 JavaScript
+* 🌐 HTML & CSS
+* ⚙️ Node.js & Express
+* 🤖 Working with AI APIs
+
+---
+
+## 🚀 Projects
+
+* 🔥 AI Quiz Generator
+* 🌍 Voice Translator
+* 🧠 Simon Game
+* 🥁 Drum Kit
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: https://linkedin.com/in/your-link
+* 🌐 Live Project: https://ai-language-translator-website.onrender.com
+
+---
+
+## ⚡ Fun Fact
+
+I love building projects more than just watching tutorials 😄
