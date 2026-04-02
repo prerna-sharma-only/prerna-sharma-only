@@ -1,15 +1,16 @@
 # 👋 Hi, I'm Prerna Sharma
 
-### 🚀 Aspiring Full Stack Developer
+🚀 Full Stack Developer | Building real-time web apps with JavaScript, Node.js & AI
+
+💡 I build projects, not just follow tutorials
 
 ---
 
 ## 💻 About Me
 
-* 🌱 Currently learning Full Stack Development
-* ⚡ Building real-time web applications
-* 🎯 Focused on JavaScript, Node.js & AI projects
-* 💡 Love turning ideas into real projects
+* 🚀 Building real-time web applications
+* ⚡ Working with JavaScript, Node.js & AI APIs
+* 💡 Focused on practical, project-based learning
 
 ---
 
@@ -18,16 +19,16 @@
 * 💻 JavaScript
 * 🌐 HTML & CSS
 * ⚙️ Node.js & Express
-* 🤖 Working with AI APIs
+* 🤖 AI APIs
 
 ---
 
 ## 🚀 Projects
 
-* 🔥 AI Quiz Generator
-* 🌍 Voice Translator
-* 🧠 Simon Game
-* 🥁 Drum Kit
+* 🌍 [Voice Translator](https://ai-language-translator-website.onrender.com/)
+* 🔥 [AI Quiz Generator](https://ai-quiz-generator-t73s.onrender.com/)
+* 🧠 [Simon Game](https://prerna-sharma-only.github.io/simongame/)
+* 🥁 [Drum Kit](https://prerna-sharma-only.github.io/drum-play/)
 
 ---
 
@@ -40,4 +41,5 @@
 
 ## ⚡ Fun Fact
 
-I love building projects more than just watching tutorials 😄
+I enjoy building projects more than just watching tutorials 😄
+
