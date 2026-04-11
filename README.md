@@ -43,7 +43,7 @@
 ---
 
 ### 🌐 Language Translator  
-🔗 Live: https://ai-language-translator-website.onrender.com/ 
+🔗 Live: https://ai-language-translator-website.onrender.com  
 🔗 Code: https://github.com/prerna-sharma-only/ai-language-translator-website
 
 - Real-time language translation web app  
@@ -53,8 +53,8 @@
 ---
 
 ### 🤖 AI Quiz Generator  
-🔗 Live: https://ai-quiz-generator-t73s.onrender.com
-🔗 Code: https://github.com/prerna-sharma-only/ai-quiz-generator  
+🔗 Live: https://ai-quiz-generator-t73s.onrender.com  
+🔗 Code: https://github.com/prerna-sharma-only/ai-quiz-generator
 
 - Generates dynamic MCQs using AI  
 - Built with JavaScript  
@@ -63,6 +63,7 @@
 ---
 
 ### 🎮 Simon Game  
+🔗 Live: https://prerna-sharma-only.github.io/simongame/    
 🔗 Code: https://github.com/prerna-sharma-only/simongame  
 
 - Interactive memory-based game  
@@ -72,7 +73,8 @@
 ---
 
 ### 🥁 Drum Kit  
-🔗 https://github.com/prerna-sharma-only/drum-kit  
+🔗 Live: https://prerna-sharma-only.github.io/drum-play    
+🔗 Code: https://github.com/prerna-sharma-only/drum-play  
 
 - Keyboard-based sound app  
 - Event-driven JavaScript project  
