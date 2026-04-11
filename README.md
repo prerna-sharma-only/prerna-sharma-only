@@ -84,7 +84,17 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prerna-sharma-only&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prerna-sharma-only&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prerna-sharma-only&theme=tokyonight" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prerna-sharma-only&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prerna-sharma-only&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 ---
