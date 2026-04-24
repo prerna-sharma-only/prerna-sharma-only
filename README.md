@@ -62,6 +62,19 @@
 
 ---
 
+### 🎧 Voice Sentiment Analysis  
+🔗 Live:  https://voice-sentiment-app.streamlit.app/      
+🔗 Code: https://github.com/prerna-sharma-only/voice-sentiment-streamlit    
+
+- It is a futuristic AI-powered web application that analyzes emotions from:    
+📝 Text input
+🎤 Voice input 
+- Using advanced NLP models, it detects:    
+😄 Joy • 😢 Sadness • 😡 Anger • 😨 Fear • 😐 Neutral • 😮 Surprise    
+- Login & Register system    
+
+---
+
 ### 🎮 Simon Game  
 🔗 Live: https://prerna-sharma-only.github.io/simongame/    
 🔗 Code: https://github.com/prerna-sharma-only/simongame  
