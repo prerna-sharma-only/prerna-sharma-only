@@ -124,15 +124,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prerna-sharma-only&show_icons=true&theme=tokyonight&hide_border=true&bg_color=30,0f2027,203a43,2c5364&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=prerna-sharma-only&theme=tokyonight&hide_border=true&background=30,0f2027,203a43,2c5364&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prerna-sharma-only&layout=compact&theme=tokyonight&hide_border=true&bg_color=30,0f2027,203a43,2c5364&title_color=00F7FF&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prerna-sharma-only&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
