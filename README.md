@@ -1,31 +1,33 @@
-<!-- 🔥 ANIMATED BANNER -->
+<!-- 🔥 CLEAN PROFESSIONAL BANNER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Prerna%20Sharma&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:111827&height=180&section=header&text=Prerna%20Sharma&fontSize=38&fontColor=ffffff" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Prerna Sharma</h1>
 
-<h3 align="center">🚀 Full-Stack Developer in Progress</h3>
-
-<!-- ✨ STYLISH MOVING TEXT -->
+<h3 align="center">Full-Stack Developer | Building Real-World Web Apps & AI Projects</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Always+learning+and+growing;Building+real-world+projects;Focused+on+backend+development;Turning+ideas+into+code" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prerna-sharma-only&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=I+build+real-world+applications;Backend-focused+developer;Exploring+AI+integrations;Consistent+learner+and+problem+solver" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-* 🔧 Building **full-stack apps (Node.js, Express, EJS)**
-* 🧠 Practicing **DSA in Java**
-* ⚡ Focused on **backend + real-world projects**
+* 🔧 Building **full-stack applications (Node.js, Express, EJS)**
+* 🧠 Practicing **Data Structures & Algorithms (Java)**
+* ⚡ Focused on **backend development & scalable systems**
 * 🎯 Goal: Become a **job-ready full-stack developer**
+
+---
+
+## 💡 What I'm Currently Working On
+
+* 🚀 Real-world full-stack projects
+* 🤖 AI integrations in web apps
+* 📈 Strengthening problem-solving skills
 
 ---
 
@@ -39,101 +41,57 @@
 
 ## 🚀 Featured Projects
 
----
-
 ### 🌐 Blog Website
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prerna-sharma-only&repo=blog-website&theme=tokyonight" />    
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=prerna-sharma-only&repo=blog-website&theme=tokyonight" />
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-Framework-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EJS-Template-orange?style=for-the-badge"/>
-</p>
+✨ Full-stack blogging platform with server-side rendering, enabling dynamic content creation and real-time updates
 
-🔗 <a href="https://blog-website-del.vercel.app">Live Demo</a>
-💻 <a href="https://github.com/prerna-sharma-only/blog-website">Source Code</a>
-
-✨ Dynamic server-side rendering platform with clean UI
+🔗 https://blog-website-del.vercel.app
+💻 https://github.com/prerna-sharma-only/blog-website
 
 ---
 
 ### 🌍 Language Translator
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prerna-sharma-only&repo=language-translator-website&theme=tokyonight" />    
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=prerna-sharma-only&repo=language-translator-website&theme=tokyonight" />
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-Frontend-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/API-Integration-blue?style=for-the-badge"/>
-</p>
+✨ Translates text in real-time using API integration with a clean and interactive UI
 
-🔗 <a href="https://language-translator-website.vercel.app">Live Demo</a>
-💻 <a href="https://github.com/prerna-sharma-only/language-translator-website">Source Code</a>
-
-✨ Real-time translation with smooth and user-friendly UI
+🔗 https://language-translator-website.vercel.app
+💻 https://github.com/prerna-sharma-only/language-translator-website
 
 ---
 
 ### 🧠 AI Quiz Generator
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prerna-sharma-only&repo=ai-quiz-generator&theme=tokyonight" />    
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=prerna-sharma-only&repo=ai-quiz-generator&theme=tokyonight" />
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-App-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Gemini-AI-purple?style=for-the-badge"/>
-</p>
+✨ Generates intelligent quizzes using AI (Gemini API) with dynamic MCQ creation
 
-🔗 <a href="https://quiz-generator-13c.vercel.app">Live Demo</a>
-💻 <a href="https://github.com/prerna-sharma-only/ai-quiz-generator">Source Code</a>
-
-✨ Generates dynamic MCQs using AI
+🔗 https://quiz-generator-13c.vercel.app
+💻 https://github.com/prerna-sharma-only/ai-quiz-generator
 
 ---
 
 ### 🎤 Voice Sentiment Analysis
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prerna-sharma-only&repo=voice-sentiment-streamlit&theme=tokyonight" />    
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=prerna-sharma-only&repo=voice-sentiment-streamlit&theme=tokyonight" />
 
-<p>
-  <img src="https://img.shields.io/badge/Python-NLP-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>    
+✨ Detects human emotions from voice input using NLP techniques
 
-🔗 <a href=" https://voice-sentiment-app.streamlit.app/">Live Demo</a>    
-💻 <a href="https://github.com/prerna-sharma-only/voice-sentiment-streamlit">Source Code</a>    
-
-✨ Detects emotions from voice input (Happy, Sad, Angry, etc.)
+💻 https://github.com/prerna-sharma-only/voice-sentiment-streamlit
 
 ---
 
-### 🎮 Simon Game
+## 🏆 Highlights
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prerna-sharma-only&repo=simongame&theme=tokyonight" />    
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-Game-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-🔗 <a href="https://prerna-sharma-only.github.io/simongame/">Live Demo</a>
-
-✨ Interactive memory-based game
+* Built multiple **full-stack projects with real-world use cases**
+* Developed **AI-powered applications**
+* Experience with **deployment (Vercel, Render)**
+* Strong focus on **learning by building**
 
 ---
-
-### 🥁 Drum Kit
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prerna-sharma-only&repo=drum-play&theme=tokyonight" />    
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-App-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-🔗 <a href="https://prerna-sharma-only.github.io/drum-play/">Live Demo</a>
-
-✨ Keyboard-based sound application
-
----
-
-
 
 ## 📊 GitHub Stats
 
@@ -156,17 +114,14 @@
 
 <p align="center">
   <a href="https://github.com/prerna-sharma-only">GitHub</a> •
-  <a href="https://linkedin.com/in/YOUR-LINK">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/prerna-sharma-10425a360/">LinkedIn</a>
 </p>
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Philosophy
 
-✨ Consistency + real projects = success
-
-
-✨ Consistency + real projects = success
+Consistency + real-world projects > tutorials
 
 
 
