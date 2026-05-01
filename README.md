@@ -145,29 +145,28 @@
 <h3 align="center">🚀 Aspiring Full-Stack Developer | Node.js • JavaScript • DSA</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+real-world+projects;Passionate+about+problem+solving;Always+learning+new+technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+real-world+projects;Focused+on+backend+development;Always+learning+and+growing" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prerna-sharma-only&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=prerna-sharma-only&label=Profile%20views&color=58A6FF&style=flat" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-* 🔭 Currently building **full-stack applications using Node.js, Express & EJS**
-* 🌱 Practicing **DSA & problem-solving daily**
-* 💡 Interested in **backend development & scalable systems**
+* 🔧 Building full-stack applications using **Node.js, Express & EJS**
+* 🧠 Practicing **DSA in Java**
+* ⚡ Focused on **backend development & real-world projects**
 * 🎯 Goal: Become a **job-ready full-stack developer**
-* ⚡ Fun fact: I believe in **learning by building, not just watching tutorials**
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,java,html,css,git,github,vscode" />
 </p>
 
 ---
@@ -176,67 +175,69 @@
 
 ### 🌐 Blog Website
 
-🔗 Live: https://blog-website-del.vercel.app
-💻 Code: https://github.com/prerna-sharma-only/blog-website
-⚙️ Tech: Node.js, Express, EJS
-✨ Features: Dynamic server-side rendering
+* 🔗 **Live:** https://blog-website-del.vercel.app
+* 💻 **Code:** https://github.com/prerna-sharma-only/blog-website
+* ⚙️ **Tech:** Node.js, Express, EJS
+* ✨ **Features:** Dynamic server-side rendering
 
 ---
 
 ### 🌍 Language Translator
 
-🔗 Live: https://language-translator-website.vercel.app
-💻 Code: https://github.com/prerna-sharma-only/language-translator-website
-⚙️ Tech: JavaScript + API
-✨ Features: Real-time translation with clean UI
+* 🔗 **Live:** https://language-translator-website.vercel.app
+* 💻 **Code:** https://github.com/prerna-sharma-only/language-translator-website
+* ⚙️ **Tech:** JavaScript + API
+* ✨ **Features:** Real-time translation with clean UI
 
 ---
 
 ### 🧠 AI Quiz Generator
 
-🔗 Live: https://quiz-generator-13c.vercel.app
-💻 Code: https://github.com/prerna-sharma-only/ai-quiz-generator
-⚙️ Tech: JavaScript + Gemini API
-✨ Features: Generates dynamic MCQs
+* 🔗 **Live:** https://quiz-generator-13c.vercel.app
+* 💻 **Code:** https://github.com/prerna-sharma-only/ai-quiz-generator
+* ⚙️ **Tech:** JavaScript + Gemini API
+* ✨ **Features:** Generates dynamic MCQs
 
 ---
 
 ### 🎤 Voice Sentiment Analysis
 
-💻 Code: https://github.com/prerna-sharma-only/voice-sentiment-streamlit
-⚙️ Tech: Python + NLP
-✨ Features: Detects emotions from voice input
+* 💻 **Code:** https://github.com/prerna-sharma-only/voice-sentiment-streamlit
+* ⚙️ **Tech:** Python + NLP
+* ✨ **Features:** Detects emotions from voice input
 
 ---
 
 ### 🎮 Simon Game
 
-🔗 Live: https://prerna-sharma-only.github.io/simongame/
-⚙️ Tech: JavaScript
-✨ Features: Interactive memory game
+* 🔗 **Live:** https://prerna-sharma-only.github.io/simongame/
+* ⚙️ **Tech:** JavaScript
+* ✨ **Features:** Interactive memory game
 
 ---
 
 ### 🥁 Drum Kit
 
-🔗 Live: https://prerna-sharma-only.github.io/drum-play/
-⚙️ Tech: JavaScript
-✨ Features: Keyboard-based sound app
+* 🔗 **Live:** https://prerna-sharma-only.github.io/drum-play/
+* ⚙️ **Tech:** JavaScript
+* ✨ **Features:** Keyboard-based sound app
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prerna-sharma-only&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prerna-sharma-only&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prerna-sharma-only&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prerna-sharma-only&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🐍 Contribution Graph
 
-![snake gif](https://github.com/prerna-sharma-only/prerna-sharma-only/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/prerna-sharma-only/prerna-sharma-only/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
@@ -244,10 +245,15 @@
 
 <p align="center">
   <a href="https://github.com/prerna-sharma-only">GitHub</a> •
-  <a href="https://www.linkedin.com/in/prerna-sharma-10425a360/">LinkedIn</a>
+  <a href="https://linkedin.com/in/YOUR-LINK">LinkedIn</a>
 </p>
 
 ---
+
+## ⚡ Fun Fact
+
+✨ Consistency + real projects = success
+
 
 ## ⚡ Fun Fact
 
