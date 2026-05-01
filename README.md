@@ -127,10 +127,6 @@
   <img src="https://streak-stats.demolab.com?user=prerna-sharma-only&theme=tokyonight&hide_border=true&background=0f2027&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prerna-sharma-only&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
 ---
 ## 🌱 Contribution Activity
 
