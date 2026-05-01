@@ -33,14 +33,15 @@
 
 ## 🚀 Featured Projects
 
-### 🌐 Blog Website
+---
 
+### 🌐 Blog Website  
 <p>
-  <a href="https://blog-website-del.vercel.app">
-    <img src="https://img.shields.io/badge/Live-Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://blog-website-z6eu.onrender.com">
+    <img src="https://img.shields.io/badge/Live-Demo-6C63FF?style=for-the-badge&logo=render&logoColor=white"/>
   </a>
   <a href="https://github.com/prerna-sharma-only/blog-website">
-    <img src="https://img.shields.io/badge/Source-Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Source-Code-000000?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
@@ -48,53 +49,77 @@
 
 ---
 
-### 🌍 Language Translator
-
+### 🌍 Language Translator  
 <p>
-  <a href="https://language-translator-website.vercel.app">
-    <img src="https://img.shields.io/badge/Live-Demo-00C9A7?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://ai-language-translator-website.onrender.com">
+    <img src="https://img.shields.io/badge/Live-Demo-00C9A7?style=for-the-badge&logo=render&logoColor=white"/>
   </a>
   <a href="https://github.com/prerna-sharma-only/language-translator-website">
-    <img src="https://img.shields.io/badge/Source-Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Source-Code-000000?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
-✨ Real-time translation app using API integration with a **clean UI and smooth user experience**.
+✨ Real-time language translation app using API integration with a **clean UI and smooth experience**.
 
 ---
 
-### 🧠 AI Quiz Generator
-
+### 🧠 AI Quiz Generator  
 <p>
-  <a href="https://quiz-generator-13c.vercel.app">
-    <img src="https://img.shields.io/badge/Live-Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://ai-quiz-generator-t73s.onrender.com">
+    <img src="https://img.shields.io/badge/Live-Demo-FF6B6B?style=for-the-badge&logo=render&logoColor=white"/>
   </a>
   <a href="https://github.com/prerna-sharma-only/ai-quiz-generator">
-    <img src="https://img.shields.io/badge/Source-Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Source-Code-000000?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
-✨ AI-powered quiz generator that creates **dynamic MCQs using Gemini API**, demonstrating practical AI integration.
+✨ AI-powered quiz generator that creates **dynamic MCQs using Gemini API**, showcasing real-world AI integration.
 
 ---
 
-### 🎤 Voice Sentiment Analysis
-
+### 🎤 Voice Sentiment Analysis  
 <p>
+  <a href="https://voice-sentiment-app.streamlit.app/">
+    <img src="https://img.shields.io/badge/Live-Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  </a>
   <a href="https://github.com/prerna-sharma-only/voice-sentiment-streamlit">
-    <img src="https://img.shields.io/badge/View-Project-4D96FF?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Source-Code-000000?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
-✨ Analyzes human emotions from voice input using **NLP techniques**, showcasing real-world AI application.
+✨ Analyzes human emotions from voice input using **NLP techniques**, demonstrating a real-world AI application.
+
+---
+
+### 🎮 Simon Game  
+<p>
+  <a href="https://prerna-sharma-only.github.io/simongame/">
+    <img src="https://img.shields.io/badge/Live-Demo-FFD93D?style=for-the-badge&logo=githubpages&logoColor=black"/>
+  </a>
+</p>
+
+✨ Interactive memory game built with JavaScript featuring dynamic patterns and event handling.
+
+---
+
+### 🥁 Drum Kit  
+<p>
+  <a href="https://prerna-sharma-only.github.io/drum-play/">
+    <img src="https://img.shields.io/badge/Live-Demo-6BCB77?style=for-the-badge&logo=githubpages&logoColor=black"/>
+  </a>
+</p>
+
+✨ Keyboard-based sound application that plays drum sounds with real-time user interaction.
+
+---
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prerna-sharma-only&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prerna-sharma-only&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prerna-sharma-only&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=prerna-sharma-only&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -113,7 +138,7 @@
   <a href="https://github.com/prerna-sharma-only">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINK">
+  <a href="https://www.linkedin.com/in/prerna-sharma-10425a360/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
