@@ -54,7 +54,7 @@
   <a href="https://ai-language-translator-website.onrender.com">
     <img src="https://img.shields.io/badge/Live-Demo-00C9A7?style=for-the-badge&logo=render&logoColor=white"/>
   </a>
-  <a href="https://github.com/prerna-sharma-only/language-translator-website">
+  <a href="https://github.com/prerna-sharma-only/ai-language-translator-website">
     <img src="https://img.shields.io/badge/Source-Code-000000?style=for-the-badge&logo=github"/>
   </a>
 </p>
@@ -96,6 +96,9 @@
   <a href="https://prerna-sharma-only.github.io/simongame/">
     <img src="https://img.shields.io/badge/Live-Demo-FFD93D?style=for-the-badge&logo=githubpages&logoColor=black"/>
   </a>
+  <a href="https://github.com/prerna-sharma-only/simongame">
+    <img src="https://img.shields.io/badge/Source-Code-000000?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ✨ Interactive memory game built with JavaScript featuring dynamic patterns and event handling.
@@ -106,6 +109,9 @@
 <p>
   <a href="https://prerna-sharma-only.github.io/drum-play/">
     <img src="https://img.shields.io/badge/Live-Demo-6BCB77?style=for-the-badge&logo=githubpages&logoColor=black"/>
+  </a>
+  <a href="https://github.com/prerna-sharma-only/drum-play">
+    <img src="https://img.shields.io/badge/Source-Code-000000?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
@@ -118,8 +124,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prerna-sharma-only&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=prerna-sharma-only&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prerna-sharma-only&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=prerna-sharma-only&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
