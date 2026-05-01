@@ -124,11 +124,22 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prerna-sharma-only&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prerna-sharma-only&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F7FD5&icon_color=7F7FD5&text_color=c9d1d9" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=prerna-sharma-only&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=prerna-sharma-only&theme=tokyonight&hide_border=true&background=0d1117&ring=7F7FD5&fire=7F7FD5&currStreakLabel=7F7FD5" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prerna-sharma-only&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F7FD5&text_color=c9d1d9" />
+</p>
+
+---
+## ⚡ Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prerna-sharma-only&theme=tokyo-night&hide_border=true&line=7F7FD5&point=FFFFFF" />
 </p>
 
 ---
