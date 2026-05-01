@@ -39,44 +39,101 @@
 
 ## 🚀 Featured Projects
 
+---
+
 ### 🌐 Blog Website
 
-![Node](https://img.shields.io/badge/Node.js-Backend-green)
-![Express](https://img.shields.io/badge/Express.js-Framework-black)
-![EJS](https://img.shields.io/badge/EJS-Template-orange)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=prerna-sharma-only&repo=blog-website&theme=tokyonight" />    
 
-🔗 https://blog-website-del.vercel.app
-💻 https://github.com/prerna-sharma-only/blog-website
+<p>
+  <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-Framework-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EJS-Template-orange?style=for-the-badge"/>
+</p>
+
+🔗 <a href="https://blog-website-del.vercel.app">Live Demo</a>
+💻 <a href="https://github.com/prerna-sharma-only/blog-website">Source Code</a>
+
+✨ Dynamic server-side rendering platform with clean UI
 
 ---
 
 ### 🌍 Language Translator
 
-![JavaScript](https://img.shields.io/badge/JavaScript-Frontend-yellow)
-![API](https://img.shields.io/badge/API-Integration-blue)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=prerna-sharma-only&repo=language-translator-website&theme=tokyonight" />    
 
-🔗 https://language-translator-website.vercel.app
-💻 https://github.com/prerna-sharma-only/language-translator-website
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-Frontend-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/API-Integration-blue?style=for-the-badge"/>
+</p>
+
+🔗 <a href="https://language-translator-website.vercel.app">Live Demo</a>
+💻 <a href="https://github.com/prerna-sharma-only/language-translator-website">Source Code</a>
+
+✨ Real-time translation with smooth and user-friendly UI
 
 ---
 
 ### 🧠 AI Quiz Generator
 
-![AI](https://img.shields.io/badge/AI-Gemini-purple)
-![JavaScript](https://img.shields.io/badge/JavaScript-App-yellow)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=prerna-sharma-only&repo=ai-quiz-generator&theme=tokyonight" />    
 
-🔗 https://quiz-generator-13c.vercel.app
-💻 https://github.com/prerna-sharma-only/ai-quiz-generator
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-App-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Gemini-AI-purple?style=for-the-badge"/>
+</p>
+
+🔗 <a href="https://quiz-generator-13c.vercel.app">Live Demo</a>
+💻 <a href="https://github.com/prerna-sharma-only/ai-quiz-generator">Source Code</a>
+
+✨ Generates dynamic MCQs using AI
 
 ---
 
 ### 🎤 Voice Sentiment Analysis
 
-![Python](https://img.shields.io/badge/Python-NLP-blue)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=prerna-sharma-only&repo=voice-sentiment-streamlit&theme=tokyonight" />    
 
-💻 https://github.com/prerna-sharma-only/voice-sentiment-streamlit
+<p>
+  <img src="https://img.shields.io/badge/Python-NLP-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>    
+
+🔗 <a href=" https://voice-sentiment-app.streamlit.app/">Live Demo</a>    
+💻 <a href="https://github.com/prerna-sharma-only/voice-sentiment-streamlit">Source Code</a>    
+
+✨ Detects emotions from voice input (Happy, Sad, Angry, etc.)
 
 ---
+
+### 🎮 Simon Game
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=prerna-sharma-only&repo=simongame&theme=tokyonight" />    
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-Game-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+🔗 <a href="https://prerna-sharma-only.github.io/simongame/">Live Demo</a>
+
+✨ Interactive memory-based game
+
+---
+
+### 🥁 Drum Kit
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=prerna-sharma-only&repo=drum-play&theme=tokyonight" />    
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-App-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+🔗 <a href="https://prerna-sharma-only.github.io/drum-play/">Live Demo</a>
+
+✨ Keyboard-based sound application
+
+---
+
+
 
 ## 📊 GitHub Stats
 
