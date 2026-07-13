@@ -9,7 +9,7 @@
 <h3 align="center"> FullStack Developer | Java | DSA | Node.js | Express.js</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=720&lines=Building+Scalable+Backend+Applications;Java+•+DSA+•+Node.js+•+Express.js;Designing+RESTful+APIs;Turning+Logic+Into+Solutions;Always+Learning,+Always+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=720&lines=Building+Scalable+Backend+Applications;Designing+RESTful+APIs;Turning+Logic+Into+Solutions;Always+Learning,+Always+Building" />
 </p>
 
 ---
