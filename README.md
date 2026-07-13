@@ -1,15 +1,15 @@
-<!-- 🌈 CLEAN GRADIENT BANNER -->
+<!--  CLEAN GRADIENT BANNER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Prerna%20Sharma&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Prerna%20Sharma&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Prerna Sharma</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Prerna Sharma</h1>
 
-<h3 align="center">✨ Full-Stack Developer | Backend Focused | AI Explorer</h3>
+<h3 align="center"> FullStack Developer | Java | DSA | Node.js | Express.js</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+real-world+projects;Backend+focused+developer;Exploring+AI+applications;Consistent+and+growth+driven" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=720&lines=Building+Scalable+Backend+Applications;Java+•+DSA+•+Node.js+•+Express.js;Designing+RESTful+APIs;Turning+Logic+Into+Solutions;Always+Learning,+Always+Building" />
 </p>
 
 ---
@@ -122,7 +122,6 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=prerna-sharma-only&theme=tokyonight&hide_border=true&background=0f2027&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
 </p>
