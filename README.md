@@ -119,8 +119,6 @@
 
 ---
 
-
-
 <p align="center">
   <img width="1338" height="412" alt="image" src="https://github.com/user-attachments/assets/a42a1f9a-d0a7-4dfc-a01f-c0d2d74d16d4" />
 
@@ -131,8 +129,10 @@
 ## 🌱 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prerna-sharma-only&theme=tokyo-night&hide_border=true&line=7F7FD5&point=FFFFFF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prerna-sharma-only&theme=tokyo-night&hide_border=true&area=true" />
 </p>
+
+
 
 ---
 
