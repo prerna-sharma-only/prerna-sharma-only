@@ -120,8 +120,12 @@
 ---
 
 <p align="center">
-  <img width="1338" height="412" alt="image" src="https://github.com/user-attachments/assets/a42a1f9a-d0a7-4dfc-a01f-c0d2d74d16d4" />
+  
+  <img height = 170 src="https://github-readme-stats-sigma-five.vercel.app/api?username=prerna-sharma-only&show_icons=true&theme=tokyonight&hide_border=true" />
 
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prerna-sharma-only&layout=compact&theme=tokyonight&hide_border=true" />
+
+       
   <img src="https://streak-stats.demolab.com?user=prerna-sharma-only&theme=tokyonight&hide_border=true&background=0F2027&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
 </p>
 
