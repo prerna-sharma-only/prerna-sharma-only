@@ -9,7 +9,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Full+Stack+Applications;Designing+RESTful+APIs;Java+%2B+Data+Structures+%26+Algorithms;Building+Projects+That+Solve+Problems"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=25&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Full+Stack+Applications;Designing+RESTful+APIs;Java+%2B+Data+Structures+%26+Algorithms;Building+Projects+That+Solve+Problems"
     alt="Typing animation"
   />
 </p>
