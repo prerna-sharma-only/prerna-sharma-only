@@ -30,7 +30,7 @@
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td valign="top">
 
 ### Core
 
@@ -38,12 +38,14 @@
   <img src="https://skillicons.dev/icons?i=java,js&theme=dark" height="42" />
 </p>
 
-`Java + DSA`
-`JavaScript (ES6+)`
+`Java + DSA` · `JavaScript (ES6+)`
+
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </td>
 
-<td width="33%" valign="top">
+<td valign="top">
 
 ### Frontend
 
@@ -51,12 +53,14 @@
   <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" height="42" />
 </p>
 
-`React`
-`HTML5` · `CSS3`
+`React` · `HTML5` · `CSS3`
+
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </td>
 
-<td width="33%" valign="top">
+<td valign="top">
 
 ### Backend
 
@@ -64,8 +68,10 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" height="42" />
 </p>
 
-`Node.js`
-`Express.js` · `REST APIs`
+`Node.js` · `Express.js` · `REST APIs`
+
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </td>
 
@@ -73,7 +79,7 @@
 
 <tr>
 
-<td width="33%" valign="top">
+<td valign="top">
 
 ### Databases
 
@@ -81,12 +87,14 @@
   <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql&theme=dark" height="42" />
 </p>
 
-`PostgreSQL`
-`MongoDB` · `MySQL`
+`PostgreSQL` · `MongoDB` · `MySQL`
+
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </td>
 
-<td width="33%" valign="top">
+<td valign="top">
 
 ### Tools
 
@@ -94,12 +102,14 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="42" />
 </p>
 
-`Git` · `GitHub`
-`VS Code`
+`Git` · `GitHub` · `VS Code`
+
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </td>
 
-<td width="33%" valign="top">
+<td valign="top">
 
 ### Deployment
 
@@ -110,6 +120,9 @@
 </p>
 
 `Render` · `Railway`
+
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </td>
 
