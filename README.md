@@ -143,12 +143,13 @@
 
 Full-stack book notes application focused on organizing reading notes with persistent data storage and external book information.
 
-<br>
+<br><br>
 
 **Tech Stack**
 
 `Node.js` `Express.js` `EJS`  
-`PostgreSQL` `Open Library` `Axios` `CSS`
+`PostgreSQL` `Open Library` `Axios`  
+`CSS`
 
 <br><br>
 
@@ -164,11 +165,13 @@ Full-stack book notes application focused on organizing reading notes with persi
 
 A full-stack dog discovery platform featuring breed exploration, sub-breed browsing, random breed discovery, and API-driven content with a responsive and interactive interface.
 
+<br>
+
 **Tech Stack**
 
 `Node.js` `Express.js` `EJS`  
-`Axios` `HTML5` `CSS3` `JavaScript`  
-`Render`
+`Axios` `HTML5` `CSS3`  
+`JavaScript` `Render`
 
 <br>
 
@@ -184,6 +187,8 @@ A full-stack dog discovery platform featuring breed exploration, sub-breed brows
 ### AI Translator
 
 Real-time language translation platform combining API-powered translation with browser-based speech recognition and voice output for a seamless multilingual experience.
+
+<br>
 
 **Tech Stack**
 
@@ -210,14 +215,14 @@ Real-time language translation platform combining API-powered translation with b
 
 Dynamic quiz application that uses an LLM to generate interactive questions and answers.
 
-<br>
+<br><br>
 
 **Tech Stack**
 
 `Node.js` `Express.js` `JavaScript`  
 `Frontend` `Backend` `Groq LLM`
 
-<br>
+<br><br>
 
 <p>
 <a href="https://ai-quiz-generator-t73s.onrender.com"><img src="https://img.shields.io/badge/LIVE%20DEMO-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" /></a>&nbsp;
@@ -232,7 +237,7 @@ Dynamic quiz application that uses an LLM to generate interactive questions and 
 
 Task management application built around a backend-driven architecture with persistent database storage.
 
-<br>
+<br><br>
 
 **Tech Stack**
 
@@ -240,7 +245,7 @@ Task management application built around a backend-driven architecture with pers
 `MongoDB Atlas` `HTML` `CSS`  
 `JavaScript` `Render`
 
-<br>
+<br><br>
 
 <p>
 <a href="https://task-manager-s4yo.onrender.com/"><img src="https://img.shields.io/badge/LIVE%20DEMO-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" /></a>&nbsp;
@@ -255,12 +260,14 @@ Task management application built around a backend-driven architecture with pers
 
 Voice-based sentiment analysis application that processes speech input and applies NLP models to identify sentiment.
 
+<br>
+
 **Tech Stack**
 
 `Streamlit` `Python` `Transformers`  
 `SpeechRecognition` `Streamlit Cloud`
 
-<br>
+<br><br>
 
 <p>
 <a href="https://voice-sentiment-app.streamlit.app/"><img src="https://img.shields.io/badge/LIVE%20DEMO-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" /></a>&nbsp;
