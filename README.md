@@ -169,7 +169,7 @@ A full-stack dog discovery platform featuring breed exploration, sub-breed brows
 <br>
 
 
-<a href="https://pawtopia-dog-hub.onrender.com/"> <img src="https://img.shields.io/badge/LIVE%20DEMO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> &nbsp; <a href="https://github.com/prerna-sharma-only/-Pawtopia"> <img src="https://img.shields.io/badge/SOURCE%20CODE-18181B?style=for-the-badge&logo=github&logoColor=white" /> </a>
+<p><a href="https://pawtopia-dog-hub.onrender.com/"> <img src="https://img.shields.io/badge/LIVE%20DEMO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> &nbsp; <a href="https://github.com/prerna-sharma-only/-Pawtopia"> <img src="https://img.shields.io/badge/SOURCE%20CODE-18181B?style=for-the-badge&logo=github&logoColor=white" /> </a></p>
 
 </td>
 
@@ -186,7 +186,7 @@ Real-time language translation platform combining API-powered translation with b
 `HTML5` `CSS3` `html2canvas`
 
 
-<a href="https://ai-language-translator-website.onrender.com"> <img src="https://img.shields.io/badge/LIVE%20DEMO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> &nbsp; <a href="https://github.com/prerna-sharma-only/ai-language-translator-website"> <img src="https://img.shields.io/badge/SOURCE%20CODE-18181B?style=for-the-badge&logo=github&logoColor=white" /> </a>
+<p><a href="https://ai-language-translator-website.onrender.com"> <img src="https://img.shields.io/badge/LIVE%20DEMO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> &nbsp; <a href="https://github.com/prerna-sharma-only/ai-language-translator-website"> <img src="https://img.shields.io/badge/SOURCE%20CODE-18181B?style=for-the-badge&logo=github&logoColor=white" /> </a></p>
 
 </td>
 
@@ -208,7 +208,7 @@ Dynamic quiz application that uses an LLM to generate interactive questions and 
 <br>
 <br>
 
-<a href="https://ai-quiz-generator-t73s.onrender.com"> <img src="https://img.shields.io/badge/LIVE%20DEMO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> &nbsp; <a href="https://github.com/prerna-sharma-only/ai-quiz-generator"> <img src="https://img.shields.io/badge/SOURCE%20CODE-18181B?style=for-the-badge&logo=github&logoColor=white" /> </a>
+<p><a href="https://ai-quiz-generator-t73s.onrender.com"> <img src="https://img.shields.io/badge/LIVE%20DEMO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> &nbsp; <a href="https://github.com/prerna-sharma-only/ai-quiz-generator"> <img src="https://img.shields.io/badge/SOURCE%20CODE-18181B?style=for-the-badge&logo=github&logoColor=white" /> </a></p>
 
 </td>
 
@@ -227,7 +227,7 @@ Task management application built around a backend-driven architecture with pers
 <br>
 <br>
 
-<a href="https://task-manager-s4yo.onrender.com/"> <img src="https://img.shields.io/badge/LIVE%20DEMO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> &nbsp; <a href="https://github.com/prerna-sharma-only/Task-manager"> <img src="https://img.shields.io/badge/SOURCE%20CODE-18181B?style=for-the-badge&logo=github&logoColor=white" /> </a>
+<p><a href="https://task-manager-s4yo.onrender.com/"> <img src="https://img.shields.io/badge/LIVE%20DEMO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> &nbsp; <a href="https://github.com/prerna-sharma-only/Task-manager"> <img src="https://img.shields.io/badge/SOURCE%20CODE-18181B?style=for-the-badge&logo=github&logoColor=white" /> </a></p>
 
 </td>
 
@@ -246,7 +246,7 @@ Voice-based sentiment analysis application that processes speech input and appli
 <br>
 <br>
 
-<a href="https://voice-sentiment-app.streamlit.app/"> <img src="https://img.shields.io/badge/LIVE%20DEMO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> &nbsp; <a href="https://github.com/prerna-sharma-only/voice-sentiment-streamlit"> <img src="https://img.shields.io/badge/SOURCE%20CODE-18181B?style=for-the-badge&logo=github&logoColor=white" /> </a>
+<p><a href="https://voice-sentiment-app.streamlit.app/"> <img src="https://img.shields.io/badge/LIVE%20DEMO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> &nbsp; <a href="https://github.com/prerna-sharma-only/voice-sentiment-streamlit"> <img src="https://img.shields.io/badge/SOURCE%20CODE-18181B?style=for-the-badge&logo=github&logoColor=white" /> </a></p>
 
 </td>
 
