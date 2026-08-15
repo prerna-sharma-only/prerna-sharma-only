@@ -137,21 +137,16 @@
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### Readora
 
 Full-stack book notes application focused on organizing reading notes with persistent data storage and external book information.
 
-<br><br>
-
 **Tech Stack**
 
 `Node.js` `Express.js` `EJS`  
-`PostgreSQL` `Open Library` `Axios`  
-`CSS`
-
-<br><br>
+`PostgreSQL` `Open Library` `Axios` `CSS`
 
 <p>
 <a href="https://github.com/prerna-sharma-only/readora-book-notes"><img src="https://img.shields.io/badge/SOURCE%20CODE-18181B?style=flat-square&logo=github&logoColor=white" /></a>
@@ -159,21 +154,17 @@ Full-stack book notes application focused on organizing reading notes with persi
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### Pawtopia
 
 A full-stack dog discovery platform featuring breed exploration, sub-breed browsing, random breed discovery, and API-driven content with a responsive and interactive interface.
 
-<br>
-
 **Tech Stack**
 
 `Node.js` `Express.js` `EJS`  
-`Axios` `HTML5` `CSS3`  
-`JavaScript` `Render`
+`Axios` `HTML5` `CSS3` `JavaScript` `Render`    
 
-<br>
 
 <p>
 <a href="https://pawtopia-dog-hub.onrender.com/"><img src="https://img.shields.io/badge/LIVE%20DEMO-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" /></a>&nbsp;
@@ -182,21 +173,21 @@ A full-stack dog discovery platform featuring breed exploration, sub-breed brows
 
 </td>
 
-<td width="33%" valign="top">
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### AI Translator
 
 Real-time language translation platform combining API-powered translation with browser-based speech recognition and voice output for a seamless multilingual experience.
-
-<br>
 
 **Tech Stack**
 
 `Node.js` `Express.js` `JavaScript ES6`  
 `translate-google API` `Web Speech API`  
 `HTML5` `CSS3` `html2canvas`
-
-<br>
 
 <p>
 <a href="https://ai-language-translator-website.onrender.com"><img src="https://img.shields.io/badge/LIVE%20DEMO-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" /></a>&nbsp;
@@ -205,24 +196,16 @@ Real-time language translation platform combining API-powered translation with b
 
 </td>
 
-</tr>
-
-<tr>
-
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### AI Quiz Generator
 
 Dynamic quiz application that uses an LLM to generate interactive questions and answers.
 
-<br><br>
-
 **Tech Stack**
 
 `Node.js` `Express.js` `JavaScript`  
 `Frontend` `Backend` `Groq LLM`
-
-<br><br>
 
 <p>
 <a href="https://ai-quiz-generator-t73s.onrender.com"><img src="https://img.shields.io/badge/LIVE%20DEMO-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" /></a>&nbsp;
@@ -231,21 +214,21 @@ Dynamic quiz application that uses an LLM to generate interactive questions and 
 
 </td>
 
-<td width="33%" valign="top">
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### Task Manager
 
 Task management application built around a backend-driven architecture with persistent database storage.
-
-<br><br>
 
 **Tech Stack**
 
 `Node.js` `Express.js`  
 `MongoDB Atlas` `HTML` `CSS`  
 `JavaScript` `Render`
-
-<br><br>
 
 <p>
 <a href="https://task-manager-s4yo.onrender.com/"><img src="https://img.shields.io/badge/LIVE%20DEMO-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" /></a>&nbsp;
@@ -254,20 +237,16 @@ Task management application built around a backend-driven architecture with pers
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### Voice Sentiment Analysis
 
 Voice-based sentiment analysis application that processes speech input and applies NLP models to identify sentiment.
 
-<br>
-
 **Tech Stack**
 
 `Streamlit` `Python` `Transformers`  
 `SpeechRecognition` `Streamlit Cloud`
-
-<br><br>
 
 <p>
 <a href="https://voice-sentiment-app.streamlit.app/"><img src="https://img.shields.io/badge/LIVE%20DEMO-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" /></a>&nbsp;
