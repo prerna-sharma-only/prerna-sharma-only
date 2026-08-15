@@ -132,130 +132,128 @@
 
 ---
 
-
 ## Selected Projects
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### Blog Website
+### Readora
 
-Full-stack blogging platform with dynamic server-side rendering and content management.
+Full-stack book notes application focused on organizing reading notes with persistent data storage and external book information.
+
+**Tech Stack**
+
+`Node.js` `Express.js` `EJS`
+`PostgreSQL` `Open Library` `Axios` `CSS`
 
 <br>
+<br>
 
-<a href="https://blog-website-z6eu.onrender.com">
-  <img src="https://img.shields.io/badge/LIVE%20DEMO-7C3AED?style=flat-square&logo=render&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/prerna-sharma-only/blog-website">
-  <img src="https://img.shields.io/badge/SOURCE-111827?style=flat-square&logo=github&logoColor=white" />
-</a>
+<a href="https://github.com/prerna-sharma-only/readora-book-notes"> <img src="https://img.shields.io/badge/SOURCE%20CODE-18181B?style=for-the-badge&logo=github&logoColor=white" /> </a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+
+### Pawtopia
+
+A full-stack dog discovery platform featuring breed exploration, sub-breed browsing, random breed discovery, & API-driven content with a responsive & interactive interface.
+
+**Tech Stack**
+
+`Node.js` `Express.js` `EJS`
+`Axios` `HTML5` `CSS3` `JavaScript` `Render`
+
+<br>
+
+
+<a href="https://pawtopia-dog-hub.onrender.com/"> <img src="https://img.shields.io/badge/LIVE%20DEMO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> &nbsp; <a href="https://github.com/prerna-sharma-only/-Pawtopia"> <img src="https://img.shields.io/badge/SOURCE%20CODE-18181B?style=for-the-badge&logo=github&logoColor=white" /> </a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### AI Translator
+
+Real-time language translation platform combining API-powered translation with browser-based speech recognition and voice output for a seamless multilingual experience.
+
+**Tech Stack**
+
+`Node.js` `Express.js` `JavaScript ES6`
+`translate-google API` `Web Speech API`
+`HTML5` `CSS3` `html2canvas`
+
+
+<a href="https://ai-language-translator-website.onrender.com"> <img src="https://img.shields.io/badge/LIVE%20DEMO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> &nbsp; <a href="https://github.com/prerna-sharma-only/ai-language-translator-website"> <img src="https://img.shields.io/badge/SOURCE%20CODE-18181B?style=for-the-badge&logo=github&logoColor=white" /> </a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
 
 ### AI Quiz Generator
 
-AI-powered quiz application generating dynamic MCQs using the Gemini API.
+Dynamic quiz application that uses an LLM to generate interactive questions and answers.
+
+**Tech Stack**
+
+`Node.js` `Express.js` `JavaScript`
+`Frontend` `Backend` `Groq LLM`
 
 <br>
+<br>
 
-<a href="https://ai-quiz-generator-t73s.onrender.com">
-  <img src="https://img.shields.io/badge/LIVE%20DEMO-7C3AED?style=flat-square&logo=render&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/prerna-sharma-only/ai-quiz-generator">
-  <img src="https://img.shields.io/badge/SOURCE-111827?style=flat-square&logo=github&logoColor=white" />
-</a>
+<a href="https://ai-quiz-generator-t73s.onrender.com"> <img src="https://img.shields.io/badge/LIVE%20DEMO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> &nbsp; <a href="https://github.com/prerna-sharma-only/ai-quiz-generator"> <img src="https://img.shields.io/badge/SOURCE%20CODE-18181B?style=for-the-badge&logo=github&logoColor=white" /> </a>
 
 </td>
 
-</tr>
+<td width="33%" valign="top">
 
-<tr>
+### Task Manager
 
-<td width="50%" valign="top">
+Task management application built around a backend-driven architecture with persistent database storage.
 
-### Language Translator
+**Tech Stack**
 
-Real-time language translation application built with API integration and a responsive interface.
+`Node.js` `Express.js`
+`MongoDB Atlas` `HTML` `CSS`
+`JavaScript` `Render`
 
 <br>
+<br>
 
-<a href="https://ai-language-translator-website.onrender.com">
-  <img src="https://img.shields.io/badge/LIVE%20DEMO-7C3AED?style=flat-square&logo=render&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/prerna-sharma-only/ai-language-translator-website">
-  <img src="https://img.shields.io/badge/SOURCE-111827?style=flat-square&logo=github&logoColor=white" />
-</a>
+<a href="https://task-manager-s4yo.onrender.com/"> <img src="https://img.shields.io/badge/LIVE%20DEMO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> &nbsp; <a href="https://github.com/prerna-sharma-only/Task-manager"> <img src="https://img.shields.io/badge/SOURCE%20CODE-18181B?style=for-the-badge&logo=github&logoColor=white" /> </a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### Voice Sentiment Analysis
 
-Voice-based sentiment analysis application demonstrating speech processing and NLP techniques.
+Voice-based sentiment analysis application that processes speech input and applies NLP models to identify sentiment.
+
+**Tech Stack**
+
+`Streamlit` `Python`
+`Transformers` `SpeechRecognition`
+`Streamlit Cloud`
 
 <br>
-
-<a href="https://voice-sentiment-app.streamlit.app/">
-  <img src="https://img.shields.io/badge/LIVE%20DEMO-7C3AED?style=flat-square&logo=streamlit&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/prerna-sharma-only/voice-sentiment-streamlit">
-  <img src="https://img.shields.io/badge/SOURCE-111827?style=flat-square&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### Simon Game
-
-Interactive memory game built with JavaScript, dynamic patterns and event-driven interactions.
-
 <br>
 
-<a href="https://prerna-sharma-only.github.io/simongame/">
-  <img src="https://img.shields.io/badge/LIVE%20DEMO-7C3AED?style=flat-square&logo=githubpages&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/prerna-sharma-only/simongame">
-  <img src="https://img.shields.io/badge/SOURCE-111827?style=flat-square&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### Drum Kit
-
-Interactive browser-based drum application with keyboard controls and real-time sound interaction.
-
-<br>
-
-<a href="https://prerna-sharma-only.github.io/drum-play/">
-  <img src="https://img.shields.io/badge/LIVE%20DEMO-7C3AED?style=flat-square&logo=githubpages&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/prerna-sharma-only/drum-play">
-  <img src="https://img.shields.io/badge/SOURCE-111827?style=flat-square&logo=github&logoColor=white" />
-</a>
+<a href="https://voice-sentiment-app.streamlit.app/"> <img src="https://img.shields.io/badge/LIVE%20DEMO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> &nbsp; <a href="https://github.com/prerna-sharma-only/voice-sentiment-streamlit"> <img src="https://img.shields.io/badge/SOURCE%20CODE-18181B?style=for-the-badge&logo=github&logoColor=white" /> </a>
 
 </td>
 
 </tr>
 </table>
+
+
 
 ---
 ## GitHub Activity
@@ -295,7 +293,7 @@ Interactive browser-based drum application with keyboard controls and real-time 
 <br>
 
 <p align="center">
-  <sub>Prerna Sharma · Full Stack Developer</sub>
+  <sub> Prerna Sharma · Full Stack Web Developer</sub>
 </p>
 
 <p align="center">
