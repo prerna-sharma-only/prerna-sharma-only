@@ -143,12 +143,14 @@
 
 Full-stack book notes application focused on organizing reading notes with persistent data storage and external book information.
 
+<br>
+
 **Tech Stack**
 
 `Node.js` `Express.js` `EJS`  
 `PostgreSQL` `Open Library` `Axios` `CSS`
 
-<br>
+<br><br>
 
 <p>
 <a href="https://github.com/prerna-sharma-only/readora-book-notes"><img src="https://img.shields.io/badge/SOURCE%20CODE-18181B?style=flat-square&logo=github&logoColor=white" /></a>
@@ -165,7 +167,8 @@ A full-stack dog discovery platform featuring breed exploration, sub-breed brows
 **Tech Stack**
 
 `Node.js` `Express.js` `EJS`  
-`Axios` `HTML5` `CSS3` `JavaScript` `Render`
+`Axios` `HTML5` `CSS3` `JavaScript`  
+`Render`
 
 <br>
 
@@ -207,6 +210,8 @@ Real-time language translation platform combining API-powered translation with b
 
 Dynamic quiz application that uses an LLM to generate interactive questions and answers.
 
+<br>
+
 **Tech Stack**
 
 `Node.js` `Express.js` `JavaScript`  
@@ -226,6 +231,8 @@ Dynamic quiz application that uses an LLM to generate interactive questions and 
 ### Task Manager
 
 Task management application built around a backend-driven architecture with persistent database storage.
+
+<br>
 
 **Tech Stack**
 
@@ -250,9 +257,8 @@ Voice-based sentiment analysis application that processes speech input and appli
 
 **Tech Stack**
 
-`Streamlit` `Python`  
-`Transformers` `SpeechRecognition`  
-`Streamlit Cloud`
+`Streamlit` `Python` `Transformers`  
+`SpeechRecognition` `Streamlit Cloud`
 
 <br>
 
