@@ -145,13 +145,14 @@ Full-stack book notes application focused on organizing reading notes with persi
 
 **Tech Stack**
 
-`Node.js` `Express.js` `EJS`
+`Node.js` `Express.js` `EJS`  
 `PostgreSQL` `Open Library` `Axios` `CSS`
 
 <br>
-<br>
 
-<a href="https://github.com/prerna-sharma-only/readora-book-notes"> <img src="https://img.shields.io/badge/SOURCE%20CODE-18181B?style=for-the-badge&logo=github&logoColor=white" /> </a>
+<p>
+<a href="https://github.com/prerna-sharma-only/readora-book-notes"><img src="https://img.shields.io/badge/SOURCE%20CODE-18181B?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
 
 </td>
 
@@ -159,17 +160,19 @@ Full-stack book notes application focused on organizing reading notes with persi
 
 ### Pawtopia
 
-A full-stack dog discovery platform featuring breed exploration, sub-breed browsing, random breed discovery, & API-driven content with a responsive & interactive interface.
+A full-stack dog discovery platform featuring breed exploration, sub-breed browsing, random breed discovery, and API-driven content with a responsive and interactive interface.
 
 **Tech Stack**
 
-`Node.js` `Express.js` `EJS`
+`Node.js` `Express.js` `EJS`  
 `Axios` `HTML5` `CSS3` `JavaScript` `Render`
 
 <br>
 
-
-<p><a href="https://pawtopia-dog-hub.onrender.com/"> <img src="https://img.shields.io/badge/LIVE%20DEMO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> &nbsp; <a href="https://github.com/prerna-sharma-only/-Pawtopia"> <img src="https://img.shields.io/badge/SOURCE%20CODE-18181B?style=for-the-badge&logo=github&logoColor=white" /> </a></p>
+<p>
+<a href="https://pawtopia-dog-hub.onrender.com/"><img src="https://img.shields.io/badge/LIVE%20DEMO-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/prerna-sharma-only/-Pawtopia"><img src="https://img.shields.io/badge/SOURCE%20CODE-18181B?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
 
 </td>
 
@@ -181,12 +184,16 @@ Real-time language translation platform combining API-powered translation with b
 
 **Tech Stack**
 
-`Node.js` `Express.js` `JavaScript ES6`
-`translate-google API` `Web Speech API`
+`Node.js` `Express.js` `JavaScript ES6`  
+`translate-google API` `Web Speech API`  
 `HTML5` `CSS3` `html2canvas`
 
+<br>
 
-<p><a href="https://ai-language-translator-website.onrender.com"> <img src="https://img.shields.io/badge/LIVE%20DEMO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> &nbsp; <a href="https://github.com/prerna-sharma-only/ai-language-translator-website"> <img src="https://img.shields.io/badge/SOURCE%20CODE-18181B?style=for-the-badge&logo=github&logoColor=white" /> </a></p>
+<p>
+<a href="https://ai-language-translator-website.onrender.com"><img src="https://img.shields.io/badge/LIVE%20DEMO-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/prerna-sharma-only/ai-language-translator-website"><img src="https://img.shields.io/badge/SOURCE%20CODE-18181B?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
 
 </td>
 
@@ -202,13 +209,15 @@ Dynamic quiz application that uses an LLM to generate interactive questions and 
 
 **Tech Stack**
 
-`Node.js` `Express.js` `JavaScript`
+`Node.js` `Express.js` `JavaScript`  
 `Frontend` `Backend` `Groq LLM`
 
 <br>
-<br>
 
-<p><a href="https://ai-quiz-generator-t73s.onrender.com"> <img src="https://img.shields.io/badge/LIVE%20DEMO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> &nbsp; <a href="https://github.com/prerna-sharma-only/ai-quiz-generator"> <img src="https://img.shields.io/badge/SOURCE%20CODE-18181B?style=for-the-badge&logo=github&logoColor=white" /> </a></p>
+<p>
+<a href="https://ai-quiz-generator-t73s.onrender.com"><img src="https://img.shields.io/badge/LIVE%20DEMO-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/prerna-sharma-only/ai-quiz-generator"><img src="https://img.shields.io/badge/SOURCE%20CODE-18181B?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
 
 </td>
 
@@ -220,14 +229,16 @@ Task management application built around a backend-driven architecture with pers
 
 **Tech Stack**
 
-`Node.js` `Express.js`
-`MongoDB Atlas` `HTML` `CSS`
+`Node.js` `Express.js`  
+`MongoDB Atlas` `HTML` `CSS`  
 `JavaScript` `Render`
 
 <br>
-<br>
 
-<p><a href="https://task-manager-s4yo.onrender.com/"> <img src="https://img.shields.io/badge/LIVE%20DEMO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> &nbsp; <a href="https://github.com/prerna-sharma-only/Task-manager"> <img src="https://img.shields.io/badge/SOURCE%20CODE-18181B?style=for-the-badge&logo=github&logoColor=white" /> </a></p>
+<p>
+<a href="https://task-manager-s4yo.onrender.com/"><img src="https://img.shields.io/badge/LIVE%20DEMO-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/prerna-sharma-only/Task-manager"><img src="https://img.shields.io/badge/SOURCE%20CODE-18181B?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
 
 </td>
 
@@ -239,14 +250,16 @@ Voice-based sentiment analysis application that processes speech input and appli
 
 **Tech Stack**
 
-`Streamlit` `Python`
-`Transformers` `SpeechRecognition`
+`Streamlit` `Python`  
+`Transformers` `SpeechRecognition`  
 `Streamlit Cloud`
 
 <br>
-<br>
 
-<p><a href="https://voice-sentiment-app.streamlit.app/"> <img src="https://img.shields.io/badge/LIVE%20DEMO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> &nbsp; <a href="https://github.com/prerna-sharma-only/voice-sentiment-streamlit"> <img src="https://img.shields.io/badge/SOURCE%20CODE-18181B?style=for-the-badge&logo=github&logoColor=white" /> </a></p>
+<p>
+<a href="https://voice-sentiment-app.streamlit.app/"><img src="https://img.shields.io/badge/LIVE%20DEMO-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/prerna-sharma-only/voice-sentiment-streamlit"><img src="https://img.shields.io/badge/SOURCE%20CODE-18181B?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
 
 </td>
 
