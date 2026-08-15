@@ -205,7 +205,8 @@ Dynamic AI-powered quiz application that uses an LLM to generate engaging questi
 **Tech Stack**
 
 `Node.js` `Express.js` `JavaScript`  
-`Frontend` `Backend` `Groq LLM`
+`Frontend` `Backend`  
+`Groq LLM`
 
 <p>
 <a href="https://ai-quiz-generator-t73s.onrender.com"><img src="https://img.shields.io/badge/LIVE%20DEMO-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" /></a>&nbsp;
@@ -245,8 +246,9 @@ Voice-based sentiment analysis application that processes speech input and appli
 
 **Tech Stack**
 
-`Streamlit` `Python` `Transformers`  
-`SpeechRecognition` `Streamlit Cloud`
+`Streamlit` `Python`  
+`Transformers` `SpeechRecognition`  
+`Streamlit Cloud`
 
 <p>
 <a href="https://voice-sentiment-app.streamlit.app/"><img src="https://img.shields.io/badge/LIVE%20DEMO-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" /></a>&nbsp;
