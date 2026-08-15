@@ -200,7 +200,7 @@ Real-time language translation platform combining API-powered translation with b
 
 ### AI Quiz Generator
 
-Dynamic quiz application that uses an LLM to generate interactive questions and answers.
+Dynamic AI-powered quiz application that uses an LLM to generate engaging questions and answers for an interactive quiz experience.
 
 **Tech Stack**
 
